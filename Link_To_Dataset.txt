@@ -1,0 +1,2 @@
+Hello,
+The link to the dataset of Myntra that I found from kaggle is :https://www.kaggle.com/datasets/ronakbokaria/myntra-products-dataset
